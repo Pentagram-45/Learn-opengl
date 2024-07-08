@@ -1,2 +1,2 @@
 # Learn-opengl
-learning progess repository for  Learn Opengl (https://learnopengl.com/)
+learning progress repository for [Learn OpenGL](https://learnopengl.com/) by Joey de Vries.
