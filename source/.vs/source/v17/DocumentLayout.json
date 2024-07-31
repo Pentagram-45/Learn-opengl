@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CG\\Learn-opengl\\source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F09A219-3D97-488F-AF30-9A8B8737A904}|source\\source.vcxproj|D:\\CG\\Learn-opengl\\source\\Hello window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F09A219-3D97-488F-AF30-9A8B8737A904}|source\\source.vcxproj|solutionrelative:Hello window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F09A219-3D97-488F-AF30-9A8B8737A904}|source\\source.vcxproj|D:\\CG\\Learn-opengl\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "glad.c",
+              "DocumentMoniker": "D:\\CG\\Learn-opengl\\glad.c",
+              "RelativeDocumentMoniker": "..\\glad.c",
+              "ToolTip": "D:\\CG\\Learn-opengl\\glad.c",
+              "RelativeToolTip": "..\\glad.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-31T02:10:07.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hello window.cpp",
+              "DocumentMoniker": "D:\\CG\\Learn-opengl\\source\\Hello window.cpp",
+              "RelativeDocumentMoniker": "Hello window.cpp",
+              "ToolTip": "D:\\CG\\Learn-opengl\\source\\Hello window.cpp",
+              "RelativeToolTip": "Hello window.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T02:01:31.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
