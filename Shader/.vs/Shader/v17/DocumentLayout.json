@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CG\\Learn-opengl\\Shader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7101604D-CE02-4915-B51D-A4CBCD4E2211}|Shader\\Shader.vcxproj|D:\\CG\\Learn-opengl\\Shader\\shader_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7101604D-CE02-4915-B51D-A4CBCD4E2211}|Shader\\Shader.vcxproj|solutionrelative:shader_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shader_1.cpp",
+              "DocumentMoniker": "D:\\CG\\Learn-opengl\\Shader\\shader_1.cpp",
+              "RelativeDocumentMoniker": "shader_1.cpp",
+              "ToolTip": "D:\\CG\\Learn-opengl\\Shader\\shader_1.cpp",
+              "RelativeToolTip": "shader_1.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T06:04:22.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
